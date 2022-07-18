@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "904497427586",
+    "firebase_url": "https://waletku-4ad61-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "waletku-4ad61",
+    "storage_bucket": "waletku-4ad61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904497427586:android:4bc50dc88d3bcae00d709b",
+        "android_client_info": {
+          "package_name": "com.example.protel_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904497427586-ijkkb7ds635rce1h9go2uut1om0ggtbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.protel_1",
+            "certificate_hash": "f226afeffa1c8659f48fe6e13e8466da2bbb8e8c"
+          }
+        },
+        {
+          "client_id": "904497427586-tgh8j61lvh80mtib8s9n0ji4h9si8rmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfeMndF_TdL94aJDK-UdQFybV9JfcqNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904497427586-tgh8j61lvh80mtib8s9n0ji4h9si8rmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904497427586-40reootv3aa9ljblo5d9re1bb5ilr8jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flxthesixth.protel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904497427586:android:f88289b5a0a71ebf0d709b",
+        "android_client_info": {
+          "package_name": "com.flxthesixth.protel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904497427586-tgh8j61lvh80mtib8s9n0ji4h9si8rmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfeMndF_TdL94aJDK-UdQFybV9JfcqNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904497427586-tgh8j61lvh80mtib8s9n0ji4h9si8rmt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904497427586-40reootv3aa9ljblo5d9re1bb5ilr8jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flxthesixth.protel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

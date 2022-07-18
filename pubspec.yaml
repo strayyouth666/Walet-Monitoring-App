@@ -1,0 +1,122 @@
+name: protel_1
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter application.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  intl: ^0.17.0
+  provider: ^5.0.0
+  package_info: ^2.0.2
+  device_info: ^2.0.3
+  shared_preferences: ^2.0.5
+  rxdart: 0.27.2
+  firebase_auth: ^3.3.0
+  flutter_svg: 0.21.0
+  firebase_core: ^1.7.0
+  firebase_database: ^8.0.1
+  firebase_analytics: ^8.3.4
+  cloud_firestore: ^2.5.3
+  flutter_polyline_points: ^1.0.0
+  google_maps_flutter: 2.0.8
+  google_maps_webservice: 0.0.16
+  animated_text_kit: 1.3.1
+  geolocator: ^8.0.1
+  geocoding: ^2.0.1
+  get: 4.5.1
+  google_sign_in: ^5.0.3
+  animate_do: ^2.0.0
+  flutter_lock_screen: ^2.0.1
+  local_auth: ^1.1.6
+  permission_handler: ^8.1.0
+  dio: ^4.0.4
+  location: ^4.3.0
+  maps_launcher: ^2.0.1
+
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/pict/circle.svg
+    - assets/pict/rectangle.svg
+    - assets/pict/Group 37.svg
+    - assets/pict/Group 38.svg
+    - assets/pict/Group 39.svg
+    - assets/pict/Group 49.svg
+    - assets/pict/Group 51.svg
+    - assets/pict/Group 52.svg
+    - assets/pict/Rectangle 11.svg
+    - assets/pict/mic.svg
+    - assets/pict/plusbut.svg
+    - assets/pict/bird.svg
+    - assets/pict/Group 1.svg
+    - assets/pict/Hello!.svg
+    - assets/pict/Swallow bird will come to your nest, and enjoy the goodness_)).svg
+    - assets/pict/Rectangle 12.png
+    - assets/pict1/Profile.svg
+    - assets/pict1/Group 72.svg
+    - assets/pict1/Frame 4.svg
+    - assets/pict1/Dashboard.svg
+    - assets/pict1/Profile.svg
+    - assets/pict/Ellipse 1.svg
+    - assets/pict/Group 32.svg
+    - assets/pict/bx_bx-home-alt.svg
+    - assets/pict1/ic_baseline-fiber-smart-record.svg
+    - assets/pict/Vector.svg
+    - assets/pict1/Group 73.svg
+    - assets/pict1/Frame 4.svg
+    - assets/pict1/Dashboard.svg
+    - assets/pict1/Connected Nest.svg
+    - assets/pict1/Logout.svg
+    - assets/pict1/Switch Account.svg
+    - assets/pict1/2.svg
+    - assets/pict1/ic_round-navigate-next.svg
+    - assets/pict1/info.svg
+    - assets/pict1/Enter your nest name.svg
+    - assets/pict1/fluent_add-circle-32-filled.svg
+    - assets/pict1/gmaps.svg
+    - assets/pict1/loc.svg
+    - assets/pict1/Your Nest.svg
+    - assets/pict1/nest1.svg
+    - assets/pict1/nest2.svg
+    - assets/pict1/search.svg
+    - assets/pict3/eva_arrow-ios-back-outline.svg
+    - assets/pict3/Nest 1.svg
+    - assets/pict3/Air Humidity.svg
+    - assets/pict3/Air Quality Score.svg
+    - assets/pict/bx_bx-home-alt.svg
+    - assets/pict1/Fan.svg
+    - assets/pict3/Group 53.svg
+    - assets/pict3/Group 64.svg
+    - assets/pict3/Group 65.svg
+    - assets/pict3/Group 68.svg
+    - assets/pict3/Group 80.svg
+    - assets/pict3/Create one.svg
+    - assets/pict3/Don’t have account_.svg
+    - assets/pict3/Group 1.svg
+    - assets/pict3/Group 90.svg
+    - assets/pict3/Sign in.svg
+    - assets/pict3/unsplash_SzcO_chuZoE.png
+    - assets/pict3/create.svg
+    - assets/pict3/Sign Up.svg
+    - assets/pict2/Device.svg
+    - assets/pict2/fan.svg
+    - assets/pict2/Fannn.svg
+    - assets/pict2/mdi_fan.svg
+    - assets/pict2/Mist Maker.svg
+    - assets/pict2/turnoff.svg
+    - assets/pict2/Rectangle 5.svg
+
+
+
+  uses-material-design: true
+
