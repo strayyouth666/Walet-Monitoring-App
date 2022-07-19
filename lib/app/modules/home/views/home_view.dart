@@ -5,23 +5,13 @@ import 'package:flutter/services.dart';
 import 'package:flutter_svg/svg.dart';
 //import 'package:firebase_core/firebase_core.dart';
 import 'package:get/get.dart';
-// ignore: import_of_legacy_library_into_null_safe
-// import 'package:lite_rolling_switch/lite_rolling_switch.dart';
+
 import 'package:protel_1/app/modules/auth/controllers/auth_controller.dart';
 import 'package:protel_1/app/modules/nest/views/nest_view.dart';
 import 'package:protel_1/app/modules/profile/views/profile_view.dart';
 import '../controllers/home_controller.dart';
 
-// class HomePageGlobal extends StatefulWidget {
-//   const HomePageGlobal({Key? key, required this.app}) : super(key: key);
-//   final FirebaseApp app;
-//
-//   @override
-//   HomeView createState() =>
 
-//     HomeView();
-//
-// }
 class HomeView extends GetView<HomeController>{
   final dbRef = FirebaseDatabase.instance.reference();
   final counterC = Get.put(HomeController());
