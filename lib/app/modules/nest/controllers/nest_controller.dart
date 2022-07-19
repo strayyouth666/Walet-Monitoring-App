@@ -26,25 +26,14 @@ import 'package:rxdart/rxdart.dart';
 
 class NestController extends GetxController with Point {
   static NestController instance = Get.find();
-
-  // var latitude = 'Getting Latitude..'.obs;
-  // var longitude = 'Getting Longitude..'.obs;
-  // var address = 'Getting Address..'.obs;
   late StreamSubscription<Position> streamSubscription;
-
-  // List<Placemark> placemarks = await placemarkFromCoordinates(52.2165157, 6.9437819);
-
-  // final LatLng _currentPosition = LatLng(3.595196, 98.672226);
   late final ArgumentCallback<LatLng> onTap;
-
-  // Map<MarkerId, Marker> markers = <MarkerId, Marker>{};
   LatLng mapCenter = LatLng(22.52898852325926, 113.83500415831804);
   GoogleMapController? mapController;
   List<Marker> myMarker = RxList([]);
-  //List<Address> address = RxList([]);
 
-  // String address = "";
-  // String value = "";
+
+
 
 
 
